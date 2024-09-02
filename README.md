@@ -1,11 +1,12 @@
 # Welcome to My GitHub Profile!
 
-Hi! I'm Dhaval Parmar, a passionate software developer with experience in Mobile Application Development. I am also AI/Ml enthusiast. Currently I am pursuing my MTech from IIT Guwahati in Robotics and Artificial Intelligence. 
+I hold a Bachelor's degree in Information and Technology and have experience as a Software Engineer, where I specialized in developing cross-platform mobile applications using Flutter. My work primarily focused on IoT projects, involving seamless communication between mobile apps and devices such as EV chargers and batteries. Currently, I am pursuing my M.Tech in Robotics and AI at IIT Guwahati, where I am expanding my expertise into cutting-edge technologies and advanced robotics systems.
 
 Here are some of the projects I've worked on:
 
 ## My Projects
 
+### Ion
 ### 1. LSTM Unlearning
 In this project we have tried to apply machine unlearning on pre-trained LSTM model.
 
